@@ -54,7 +54,7 @@
 - 📱 SustainWise – Android budgeting app powered by **TensorFlow Lite** & Firebase (Bangkit 2024)
 - 🎬 Reyalphix Movies – Movie database app
 - 🎶 Q Music – Online music player with integrated playlist & search
-- 🌐 TravelyWeb – Fullstack Laravel-based web for travel services
+- 🌐 Q Travel – Fullstack Laravel-based web for travel services
 
 ---
 
