@@ -6,7 +6,7 @@
   <a href="mailto:reyytsr@gmail.com">📧 reyytsr@gmail.com</a> • 
   <a href="https://www.linkedin.com/in/rayhan-alfarizi-3a4901247/">🔗 LinkedIn</a> • 
   <a href="https://github.com/reyyytsr">💻 My 1st Github</a> • 
-  <a href="https://instagram.com/reiii.tsr">📷 Instagram</a> •
+  <a href="https://instagram.com/reiii.tsr">📷 Instagram</a> 
 </p>
 
 ---
