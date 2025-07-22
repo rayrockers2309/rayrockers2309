@@ -51,9 +51,9 @@
 ### 📌 Highlight Projects
 
 - 🔒 [SAFE - Anti Fraud Web App]((https://www.safenetindo.site)) – Fraud Detection & Sentiment Analysis for Finance (LapisAI)
-- 📱 SustainWise – Android budgeting app (Bangkit 2024)
-- 🎬 Reyalphix Movies – Movie database app
-- 🎶 Q Music – Online music player with integrated playlist & search
+- 📱 SustainWise – personal budget finance manager Android app  (Bangkit 2024)
+- 🎬 Reyalphix Movies – Movie database mobile app
+- 🎶 Q Music UI Prototype– Online music player User Interfaces with integrated playlist & search
 - 🌐 Q Travel – web for travel services
 
 ---
