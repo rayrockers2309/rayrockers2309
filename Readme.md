@@ -42,7 +42,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rayrockers2309&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <br/>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayrockers2309&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
@@ -61,7 +61,7 @@
 ### ☕ Let's Connect!
 
 - 📩 reyyytsr@gmail.com
-- 📸 [Instagram @reiii.tsr](https://instagram.com/reiii.tsr)
+- 📸 [@reiii.tsr](https://instagram.com/reiii.tsr)
 - 💼 [LinkedIn](https://linkedin.com/in/rayhan-alfarizi-3a4901247/)
 
 ---
