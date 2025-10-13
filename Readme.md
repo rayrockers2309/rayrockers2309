@@ -61,8 +61,8 @@
 ### ☕ Let's Connect!
 
 - 📩 reyyytsr@gmail.com
-- 📸 [@reiii.tsr](https://instagram.com/reiii.tsr)
-- 💼 [LinkedIn](https://linkedin.com/in/rayhan-alfarizi-3a4901247/)
+- 📸 [Instagram : @reiii.tsr](https://instagram.com/reiii.tsr)
+- 💼 [LinkedIn : Rayhan Alfarizi](https://linkedin.com/in/rayhan-alfarizi-3a4901247/)
 
 ---
 
